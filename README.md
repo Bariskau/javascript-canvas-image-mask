@@ -3,6 +3,7 @@ This is a simple JavaScript application that masks images using an alpha mask. A
 
 # Demo
 ![](https://github.com/Bariskau/javascript-canvas-image-mask/raw/main/assets/images/demo.gif)
+
 [Try](https://bariskau.github.io/javascript-canvas-image-mask)
 
 ## How it works?

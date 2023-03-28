@@ -1,0 +1,38 @@
+.container {
+    height: 120vh;
+}
+
+.image-container {
+    position: relative;
+    width: 100%;
+    min-height: 720px;
+    border-radius: 8px;
+    height: 100%;
+    overflow: auto;
+}
+
+#drawing-canvas {
+    position: absolute;
+    z-index: 2;
+    opacity: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    bottom: 0;
+}
+
+#preview-canvas {
+    border-radius: 8px;
+    position: absolute;
+    opacity: 1;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    bottom: 0;
+}
+
+.btn-active {
+    background-color: #0c5ed6;
+}
